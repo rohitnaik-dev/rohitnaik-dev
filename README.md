@@ -1,7 +1,7 @@
 # 💫 About Me
 
 🔭 **Currently working on**
-- Serverless automation tools — like a multi-judge Telegram Bot running entirely on Google Apps Script and Google Sheets
+- Serverless automation tools — like Telegram Bot running entirely on Google Apps Script and Google Sheets
 - Production-ready Next.js full-stack applications with rich user interfaces
 - Structuring robust backend APIs and learning advanced database models
 
